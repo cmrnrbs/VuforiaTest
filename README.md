@@ -1,6 +1,6 @@
 PROJE KONUSU
 ------------------------------------------------------------------
-Bu projede kendi karakterinizi ve classlarınızı yaratarak online olarak insanlarla bir araya gelebildiğiniz bir dövüş simülaötürü hazırlanması amaçlanmıştır ve bu sadece bir demodur.Projenin ilerleyen süreçlerindeki hedefimi ve kullanacağım teknolojileri sizlere
+Bu projede kendi karakterinizi ve classlarınızı yaratarak online olarak insanlarla bir araya gelebildiğiniz bir dövüş simülatörü hazırlanması amaçlanmıştır ve bu sadece bir demodur.Projenin ilerleyen süreçlerindeki hedefimi ve kullanacağım teknolojileri sizlere
 birazdan bahsedeceğim.
 
 1.VİZYON
