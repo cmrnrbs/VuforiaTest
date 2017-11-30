@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://encouraging-mix-96622.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">380886548661</string>
+  <string name="google_storage_bucket" translatable="false">encouraging-mix-96622.appspot.com</string>
+  <string name="project_id" translatable="false">encouraging-mix-96622</string>
+  <string name="google_api_key" translatable="false">AIzaSyB57pe7qP5ZmlDEN_2T8ehYR3kR_L-C8DI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB57pe7qP5ZmlDEN_2T8ehYR3kR_L-C8DI</string>
+  <string name="google_app_id" translatable="false">1:380886548661:android:202958f0fcfe65a5</string>
+  <string name="default_web_client_id" translatable="false">380886548661-2i1vr150hkgeb8llmi6stct50bq5fvlu.apps.googleusercontent.com</string>
+</resources>
