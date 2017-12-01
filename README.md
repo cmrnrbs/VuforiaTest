@@ -3,6 +3,9 @@ PROJE KONUSU
 Bu projede kendi karakterinizi ve classlarınızı yaratarak online olarak insanlarla bir araya gelebildiğiniz bir dövüş simülatörü hazırlanması amaçlanmıştır ve bu sadece bir demodur.Projenin ilerleyen süreçlerindeki hedefimi ve kullanacağım teknolojileri sizlere
 birazdan bahsedeceğim.
 
+NOT : Image Tracker için aşağıdaki görselin indirilmesi gerekmektedir.
+https://drive.google.com/file/d/0B3bIwB9nIG6xUkgzMFhLWUNyeHc/view?usp=sharing
+
 1.VİZYON
 ------------------------------------------------------------------
 
